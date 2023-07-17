@@ -17,7 +17,8 @@ Para poder ejecutar el proyecto de forma local se deben tener instalados los sig
 4. Node JS lenguaje de programación necesario para correr el aplicativo
 5. instalar una nueva libreria en el proyecto back con el comando npm i cors
     una vez instalado agregar dos nuevas lineas de codigo como se vera a continuación, esto con el proposito de que el proyecto no sufra inconvenientes
-    ins1
+    
+   ![Image text](https://github.com/mdmd0497/pruebatecnicainfodesignfront/blob/master/ins1.PNG)
 
 ### Instalación 🔧
 
