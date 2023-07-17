@@ -37,3 +37,7 @@ Este comando "npm start o npm dev" desplegará de forma local la aplicación, la
 
 Al iniciar la aplicación en la consola arrojara "El servidor se encuentra corriendo" junto con las conexiónes a las API's
 por ultimo probar todo el front que esta alli
+Ejemplos de como se ve la aplicación
+![Image text](https://github.com/mdmd0497/pruebatecnicainfodesignfront/blob/master/ins2.PNG)
+![Image text](https://github.com/mdmd0497/pruebatecnicainfodesignfront/blob/master/ins3.PNG)
+![Image text](https://github.com/mdmd0497/pruebatecnicainfodesignfront/blob/master/ins4.PNG)
